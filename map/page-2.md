@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LDC Data Portal
+title: Landscape Data Commons
 ---
 | [Home](../) | [Landscape Data Commons](https://cmfraser1380.github.io/ldc-github-pages-template/) | [Page 1](./page-1.html)  | Page 2 | [Page 3](./page-3.html)
 
