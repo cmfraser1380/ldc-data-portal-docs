@@ -1,0 +1,8 @@
+- link: /
+  name: Home
+- link: /docs
+  name: Docs
+- link: /contact/
+  name: Contact
+- link: https://cmfraser1380.github.io/ldc-github-pages-template/
+  name: Landscape Data Commons
